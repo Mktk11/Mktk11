@@ -6,6 +6,12 @@ Me chamo Maykon Robert,sou natural de São gonçalo no Rio de janeiro. Concluí 
 
 ### 🤖 Linguagens e Tecnologias
 
+## Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maykon-valentim/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maykon_robertsv/)
+
+
 <img 
     align="left" 
     alt="HTML"
