@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Maykon Robert
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Maykon Robert,sou natural de São gonçalo no Rio de janeiro. Concluí o ensino médio em escola pública. Atualmente, estou cursando Ciêcia da computação na UERJ. Sou apaixonado por tecnologia e tento compartilhar meu conhecimento com pequenos projetos aqui no github.
 
